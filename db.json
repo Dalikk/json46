@@ -1,10 +1,42 @@
 {
   "posts":[
-    {"id": 1, "title":"The best early Black Friday laptop deals 2021", "imgurl":"https://i.postimg.cc/gcDQhW7m/vpavic-052011-4016-0042-0.png"},
-    {"id": 2, "title":"Amazon Studios is reportedly trying to make a Mass Effect TV show", "imgurl":"https://i.postimg.cc/SxXvHzxx/Mass-Effect-LE-Key-Art-16x9-RGB-768x432-0.png"},
-    {"id": 3, "title":"Black Friday 2021 smart home tech deals: speakers, cameras, robots, and more", "imgurl":"https://i.postimg.cc/Kv8VrWXL/dseifert-4619-echo-show-2nd-gen-2-0.png"},
-    {"id": 4, "title":"Funko’s new Star Trek NFTs show that resistance is futile", "imgurl":"https://i.postimg.cc/QdRyDxFk/Screen-Shot-2021-11-23-at-2-54-42-PM-0.png"},
-    {"id": 5, "title":"PlayStation is facing a gender discrimination lawsuit", "imgurl":"https://i.postimg.cc/02Zv9mvG/1040895722-0.png"},
-    {"id": 6, "title":"AUDI RS E-TRON GT REVIEW: ELECTRIC EXTRAVAGANCE", "imgurl":"https://i.postimg.cc/289tHxmt/pesposito-211027-4857-0018-0.png"}
+    {
+	    "id": 1, 
+		"title":"The best early Black Friday laptop deals 2021",
+		"body":"Black Friday weekend and Cyber Monday are often thought of as times to stock up on smaller investments on the cheap, like headphones, games, and other gadgets you may not have wanted to pay full price for. But it’s also a great time to save on big-ticket items, like that laptop you’ve maybe had your eye on. The shopping holidays have brought some seriously good discounts on laptops, whether you’re keen on sticking with Mac, or you want a Windows PC. Both often come in very slim designs, but for people who don’t mind a heavier laptop, we’ve included some gaming laptop picks.
+
+The kinds of deals you can get on laptops vary depending on the retailer, so that’s how we’ve split up the deals.",
+		"imgurl":"https://i.postimg.cc/gcDQhW7m/vpavic-052011-4016-0042-0.png"
+	},
+    {
+    	"id": 2, 
+    	"title":"Amazon Studios is reportedly trying to make a Mass Effect TV show", 
+    	"body":"",
+    	"imgurl":"https://i.postimg.cc/SxXvHzxx/Mass-Effect-LE-Key-Art-16x9-RGB-768x432-0.png"
+    },
+    {
+    	"id": 3,
+    	"title":"Black Friday 2021 smart home tech deals: speakers, cameras, robots, and more", 
+    	"body":"",
+    	"imgurl":"https://i.postimg.cc/Kv8VrWXL/dseifert-4619-echo-show-2nd-gen-2-0.png"
+    },
+    {
+    	"id": 4, 
+    	"title":"Funko’s new Star Trek NFTs show that resistance is futile", 
+    	"body":"",
+    	"imgurl":"https://i.postimg.cc/QdRyDxFk/Screen-Shot-2021-11-23-at-2-54-42-PM-0.png"
+    },
+    {
+    	"id": 5, 
+    	"title":"PlayStation is facing a gender discrimination lawsuit", 
+    	"body":"",
+    	"imgurl":"https://i.postimg.cc/02Zv9mvG/1040895722-0.png"
+    },
+    {
+    	"id": 6, 
+    	"title":"AUDI RS E-TRON GT REVIEW: ELECTRIC EXTRAVAGANCE", 
+    	"body":"",
+    	"imgurl":"https://i.postimg.cc/289tHxmt/pesposito-211027-4857-0018-0.png"
+    }
     ]
 }
